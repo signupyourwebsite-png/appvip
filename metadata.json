@@ -1,0 +1,5 @@
+{
+  "name": "Chrome Extension AI Builder",
+  "description": "Ứng dụng AI giúp tạo mã nguồn cho Chrome Extension (Manifest V3) theo yêu cầu một cách nhanh chóng và chính xác.",
+  "requestFramePermissions": []
+}
